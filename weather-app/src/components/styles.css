@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    margin: 25px;
+    gap: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(50% 50%);
+}
+
+.button_wrapper {
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 50px;
+    background-image: conic-gradient(rgb(1, 23, 146), rgb(255, 255, 255), rgb(255, 0, 0), brown, pink, black, );
+}
+
+.wrapper p {
+    font-size: 40px;
+}
